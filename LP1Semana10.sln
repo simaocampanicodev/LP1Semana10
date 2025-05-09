@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntCollections", "IntCollec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualPlayer", "EqualPlayer\EqualPlayer.csproj", "{EB2A7EC2-4DD4-4BEE-AED7-1411F30C6F2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower1", "FilePower1\FilePower1.csproj", "{D424DFBB-AAF8-4761-BC77-D1F3527B1D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower2", "FilePower2\FilePower2.csproj", "{1178E0CA-A5D1-4D5B-930F-8288DDF1DE3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{EB2A7EC2-4DD4-4BEE-AED7-1411F30C6F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB2A7EC2-4DD4-4BEE-AED7-1411F30C6F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB2A7EC2-4DD4-4BEE-AED7-1411F30C6F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D424DFBB-AAF8-4761-BC77-D1F3527B1D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D424DFBB-AAF8-4761-BC77-D1F3527B1D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D424DFBB-AAF8-4761-BC77-D1F3527B1D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D424DFBB-AAF8-4761-BC77-D1F3527B1D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1178E0CA-A5D1-4D5B-930F-8288DDF1DE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1178E0CA-A5D1-4D5B-930F-8288DDF1DE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1178E0CA-A5D1-4D5B-930F-8288DDF1DE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1178E0CA-A5D1-4D5B-930F-8288DDF1DE3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
